@@ -5,12 +5,12 @@ import { Category } from "./components/Category";
 const App = () => (
   <>
     <img
-      src="/assets/images/sprite.svg"
+      src="https://dfusic.github.io/kaktus-cjenik/assets/images/sprite.svg"
       className="sprite"
       alt="Caffee bar Kaktus"
     />
     <img
-      src="/assets/images/logo.svg"
+      src="https://dfusic.github.io/kaktus-cjenik/assets/images/logo.svg"
       className="logo"
       alt="Caffee bar Kaktus"
     />
@@ -30,7 +30,7 @@ const App = () => (
       <Category category={prices.zestokaPica} id="zestoka-pica" />
     </div>
     <img
-      src="/assets/images/sprite-bottom.svg"
+      src="https://dfusic.github.io/kaktus-cjenik/assets/images/sprite-bottom.svg"
       className="sprite"
       alt="Caffee bar Kaktus"
     />
