@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kaktus-cjenik/static/css/main.de5f4e10.css",
+    "main.js": "/kaktus-cjenik/static/js/main.15189c53.js",
+    "static/js/787.6f8bf928.chunk.js": "/kaktus-cjenik/static/js/787.6f8bf928.chunk.js",
+    "index.html": "/kaktus-cjenik/index.html",
+    "main.de5f4e10.css.map": "/kaktus-cjenik/static/css/main.de5f4e10.css.map",
+    "main.15189c53.js.map": "/kaktus-cjenik/static/js/main.15189c53.js.map",
+    "787.6f8bf928.chunk.js.map": "/kaktus-cjenik/static/js/787.6f8bf928.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5f4e10.css",
+    "static/js/main.15189c53.js"
+  ]
+}
