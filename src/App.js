@@ -1,25 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import prices from "./prices.json";
+import { Menu } from "./components/Menu";
+import { Category } from "./components/Category";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+const App = () => (
+  <>
+    <img
+      src="/assets/images/sprite.svg"
+      className="sprite"
+      alt="Caffee bar Kaktus"
+    />
+    <img
+      src="/assets/images/logo.svg"
+      className="logo"
+      alt="Caffee bar Kaktus"
+    />
+    <div className="cjenik">
+      <div className="cjenik-title-wrapper">
+        <h2 className="cjenik-title">Cjenik</h2>
+      </div>
+      <Menu menuItems={prices.categories} />
+      <Category category={prices.topliNapici} id="topli-napici" />
+      <Category category={prices.bezalkPica} id="bezalk-pica" />
+      <Category category={prices.pivo} id="pivo" />
+      <Category category={prices.vino} id="vino" />
+      <Category category={prices.gin} id="gin" />
+      <Category category={prices.whiskey} id="whiskey" />
+      <Category category={prices.kokteli} id="kokteli" />
+      <Category category={prices.mixPica} id="mix-pica" />
+      <Category category={prices.zestokaPica} id="zestoka-pica" />
     </div>
-  );
-}
+    <img
+      src="/assets/images/sprite-bottom.svg"
+      className="sprite"
+      alt="Caffee bar Kaktus"
+    />
+  </>
+);
 
 export default App;

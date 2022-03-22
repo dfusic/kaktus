@@ -1,0 +1,594 @@
+{
+    "categories": [
+        {
+            "label": "Topli napici",
+            "icon": "/assets/icons/topliNapici.svg",
+            "scroll_id": "#topli-napici"
+        },
+        {
+            "label": "Bezalk. pića",
+            "icon": "/assets/icons/bezalkPica.svg",
+            "scroll_id": "#bezalk-pica"
+        },
+        {
+            "label": "Pivo",
+            "icon": "/assets/icons/pivo.svg",
+            "scroll_id": "#pivo"
+        },
+        {
+            "label": "Vino",
+            "icon": "/assets/icons/vino.svg",
+            "scroll_id": "#vino"
+        },
+        {
+            "label": "Gin",
+            "icon": "/assets/icons/gin.svg",
+            "scroll_id": "#gin"
+        },
+        {
+            "label": "Whiskey",
+            "icon": "/assets/icons/whiskey.svg",
+            "scroll_id": "#whiskey"
+        },
+        {
+            "label": "Kokteli",
+            "icon": "/assets/icons/kokteli.svg",
+            "scroll_id": "#kokteli"
+        },
+        {
+            "label": "Mix pića",
+            "icon": "/assets/icons/mixPica.svg",
+            "scroll_id": "#mix-pica"
+        },
+        {
+            "label": "Žestoka pića",
+            "icon": "/assets/icons/zestokaPica.svg",
+            "scroll_id": "zestoka-pica"
+        }
+    ],
+    "topliNapici": {
+        "label": "Topli napici",
+        "items": [
+            {
+                "name": "Baby Capuccino",
+                "price": "5,00"
+            },
+            {
+                "name": "Bijela kava",
+                "price": "13,00"
+            },
+            {
+                "name": "Cappuccino aparat",
+                "price": "13,00"
+            },
+            {
+                "name": "Čaj",
+                "price": "8,00"
+            },
+            {
+                "name": "Čaj s limunom",
+                "price": "9,00"
+            },
+            {
+                "name": "Čaj sa limunom i medom",
+                "price": "11,00"
+            },
+            {
+                "name": "Čaj s medom",
+                "price": "9,00"
+            },
+            {
+                "name": "Kakao",
+                "price": "14,00"
+            },
+            {
+                "name": "Kakao sa šlagom",
+                "price": "16,00"
+            },
+            {
+                "name": "Kava espresso",
+                "price": "9,00"
+            },
+            {
+                "name": "Kava sa šlagom",
+                "price": "12,00"
+            },
+            {
+                "name": "Kava s mlijekom",
+                "price": "10,00"
+            },
+            {
+                "name": "Kava s vrhnjem",
+                "price": "10,00"
+            },
+            {
+                "name": "Ledena kava",
+                "price": "15,00"
+            },
+            {
+                "name": "Med komad",
+                "price": "2,00"
+            },
+            {
+                "name": "Nescaffe razno",
+                "price": "13,00"
+            },
+            {
+                "name": "Nescaffe s vodom",
+                "price": "8,00"
+            },
+            {
+                "name": "Šlag porcija",
+                "price": "3,00"
+            },
+            {
+                "name": "Topla čokalada",
+                "price": "15,00"
+            }
+        ]
+    },
+    "bezalkPica": {
+        "label": "Bezalk. pića",
+        "items": [
+            {
+                "name": "Cedevita 0.3L",
+                "price": "13,00"
+            },
+            {
+                "name": "Cedevita 0,5L",
+                "price": "15,00"
+            },
+            {
+                "name": "Gazirani sokovi",
+                "price": "16,00"
+            },
+            {
+                "name": "Hell",
+                "price": "17,00"
+            },
+            {
+                "name": "Jamnica botanica",
+                "price": "15,00"
+            },
+            {
+                "name": "Jamnica sensation",
+                "price": "15,00"
+            },
+            {
+                "name": "Jana vitamin",
+                "price": "15,00"
+            },
+            {
+                "name": "Juice jabuka",
+                "price": "40,00"
+            },
+            {
+                "name": "Ledeni čaj",
+                "price": "15,00"
+            },
+            {
+                "name": "Limunada 0.4L",
+                "price": "15,00"
+            },
+            {
+                "name": "Limunada 0.5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Mineralna voda 0.10L",
+                "price": "2,00"
+            },
+            {
+                "name": "Mineralna voda 0.20L",
+                "price": "4,00"
+            },
+            {
+                "name": "Mineralna voda 0.30L",
+                "price": "6,00"
+            },
+            {
+                "name": "Mineralna voda 0.50L",
+                "price": "10,00"
+            },
+            {
+                "name": "Mineralna voda 1L",
+                "price": "20,00"
+            },
+            {
+                "name": "Prirodni sok (Pago)",
+                "price": "16,00"
+            },
+            {
+                "name": "Red bull",
+                "price": "20,00"
+            },
+            {
+                "name": "Točena Coca Cola 0.10",
+                "price": "5,00"
+            },
+            {
+                "name": "Točena Coca Cola 0.20",
+                "price": "10,00"
+            },
+            {
+                "name": "Točena Coca Cola 0.30",
+                "price": "13,00"
+            },
+            {
+                "name": "Točena Coca Cola 1L",
+                "price": "45,00"
+            }
+        ]
+    },
+    "pivo": {
+        "label": "Pivo",
+        "items": [
+            {
+                "name": "Heineken 0,25L",
+                "price": "15,00"
+            },
+            {
+                "name": "Hidra izotonic 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Karlovačko 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Laško 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Leffe svjetlo, tamno 0,33L",
+                "price": "25,00"
+            },
+            {
+                "name": "Osječko crni radler 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Ožujsko 0,33L",
+                "price": "15,00"
+            },
+            {
+                "name": "Ožujsko 0,5L",
+                "price": "15,00"
+            },
+            {
+                "name": "Ožujsko Cool 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Ožujsko radler 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Pan 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Pan Pilsner 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Somersby 0,33L",
+                "price": "20,00"
+            },
+            {
+                "name": "Staropramen 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Stella Artois 0,33L",
+                "price": "18,00"
+            },
+            {
+                "name": "Točeno pivo 0,3L",
+                "price": "13,00"
+            },
+            {
+                "name": "Točeno pivo 0,5L",
+                "price": "16,00"
+            },
+            {
+                "name": "Tomislav 0,5L",
+                "price": "16,00"
+            }
+        ]
+    },
+    "vino": {
+        "label": "Vino",
+        "items": [
+            {
+                "name": "Bambus 0,20L",
+                "price": "13,00"
+            },
+            {
+                "name": "Bambus 0,30L",
+                "price": "15,00"
+            },
+            {
+                "name": "Bambus 0,50L",
+                "price": "26,00"
+            },
+            {
+                "name": "Bevanda 0,2L",
+                "price": "5,00"
+            },
+            {
+                "name": "Crno vino",
+                "price": "50,00"
+            },
+            {
+                "name": "Domaće vino",
+                "price": "50,00"
+            },
+            {
+                "name": "Gemišt 0,5L",
+                "price": "21,00"
+            },
+            {
+                "name": "Gemišt domaći 0,2L",
+                "price": "9,00"
+            },
+            {
+                "name": "Gemišt domaći 0,3L",
+                "price": "12,00"
+            },
+            {
+                "name": "Kuhano vino bijelo",
+                "price": "12,00"
+            },
+            {
+                "name": "Kuhano vino crno",
+                "price": "12,00"
+            },
+            {
+                "name": "Lovranski 0,2L",
+                "price": "10,00"
+            },
+            {
+                "name": "Lovranski 0,3L",
+                "price": "13,00"
+            },
+            {
+                "name": "Škropec domaći",
+                "price": "6,00"
+            }
+        ]
+    },
+    "gin": {
+        "label": "Gin",
+        "items": [
+            {
+                "name": "Gin Hendricks",
+                "price": "20,00"
+            },
+            {
+                "name": "Gin Sax",
+                "price": "10,00"
+            },
+            {
+                "name": "Gin Tanqueray",
+                "price": "17,00"
+            },
+            {
+                "name": "Gin - tonic Sax",
+                "price": "15,00"
+            },
+            {
+                "name": "Gin - tonic Sax (pink, ginger)",
+                "price": "23,00"
+            }
+        ]
+    },
+    "whiskey": {
+        "label": "Whiskey",
+        "items": [
+            {
+                "name": "Jack Daniels",
+                "price": "20,00"
+            },
+            {
+                "name": "Jameson",
+                "price": "18,00"
+            }
+        ]
+    },
+    "kokteli": {
+        "label": "Kokteli",
+        "items": [
+            {
+                "name": "Kuhani gin",
+                "price": "15,00"
+            },
+            {
+                "name": "Kuhani rum-punč",
+                "price": "15,00"
+            }
+        ]
+    },
+    "mixPica": {
+        "label": "Mix pića",
+        "items": [
+            {
+                "name": "Amaro - cola",
+                "price": "15,00"
+            },
+            {
+                "name": "Blacky - cola",
+                "price": "15,00"
+            },
+            {
+                "name": "Hell - vodka",
+                "price": "15,00"
+            },
+            {
+                "name": "Jacky - cola",
+                "price": "23,00"
+            },
+            {
+                "name": "Jeger - cola",
+                "price": "25,00"
+            },
+            {
+                "name": "Jeger - hell",
+                "price": "25,00"
+            },
+            {
+                "name": "Juice - vodka",
+                "price": "15,00"
+            },
+            {
+                "name": "Kruškovac - cola",
+                "price": "14,00"
+            },
+            {
+                "name": "Pelin - cola",
+                "price": "15,00"
+            },
+            {
+                "name": "Pink lady - gin Sax",
+                "price": "30,00"
+            },
+            {
+                "name": "Pink lady - vodka Trojka",
+                "price": "30,00"
+            },
+            {
+                "name": "Red bull - vodka",
+                "price": "17,00"
+            },
+            {
+                "name": "Rum - cola",
+                "price": "15,00"
+            },
+            {
+                "name": "Stock - cola",
+                "price": "16,00"
+            }
+        ]
+    },
+    "zestokaPica": {
+        "label": "Žestoka pića",
+        "items": [
+            {
+                "name": "Amaro",
+                "price": "10,00"
+            },
+            {
+                "name": "Bacardi",
+                "price": "20,00"
+            },
+            {
+                "name": "Bell de joure",
+                "price": "13,00"
+            },
+            {
+                "name": "Borovnica liker",
+                "price": "12,00"
+            },
+            {
+                "name": "Carolines",
+                "price": "18,00"
+            },
+            {
+                "name": "Cynar",
+                "price": "17,00"
+            },
+            {
+                "name": "Dalmatino, Blacky",
+                "price": "12,00"
+            },
+            {
+                "name": "Gin Sax (pink, ginger)",
+                "price": "14,00"
+            },
+            {
+                "name": "Jagermeister",
+                "price": "18,,00"
+            },
+            {
+                "name": "Južnjačka utjeha",
+                "price": "18,00"
+            },
+            {
+                "name": "Konjak prima brand",
+                "price": "10,00"
+            },
+            {
+                "name": "Kruškovac",
+                "price": "10,00"
+            },
+            {
+                "name": "Lavov",
+                "price": "10,00"
+            },
+            {
+                "name": "Loza",
+                "price": "10,00"
+            },
+            {
+                "name": "Malibu",
+                "price": "20,00"
+            },
+            {
+                "name": "Martini Fiero",
+                "price": "10,00"
+            },
+            {
+                "name": "Medica",
+                "price": "10,00"
+            },
+            {
+                "name": "Mentol",
+                "price": "10,00"
+            },
+            {
+                "name": "Orehovac",
+                "price": "12,00"
+            },
+            {
+                "name": "Pelinkovac",
+                "price": "10,00"
+            },
+            {
+                "name": "Pelinkovac Antique",
+                "price": "14,00"
+            },
+            {
+                "name": "Rum Badel domaći",
+                "price": "10,00"
+            },
+            {
+                "name": "Stock",
+                "price": "14,00"
+            },
+            {
+                "name": "Tequilla",
+                "price": "16,00"
+            },
+            {
+                "name": "Teranel",
+                "price": "12,00"
+            },
+            {
+                "name": "Travarica",
+                "price": "10,00"
+            },
+            {
+                "name": "Viljamovka Roner, Harmund ",
+                "price": "18,00"
+            },
+            {
+                "name": "Višnjevac",
+                "price": "12,00"
+            },
+            {
+                "name": "Vodka trojka",
+                "price": "10,00"
+            }
+        ]
+    }
+}
