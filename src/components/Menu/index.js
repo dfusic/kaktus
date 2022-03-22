@@ -17,7 +17,11 @@ export const Menu = ({ menuItems, icon }) => (
 const MenuItem = ({ label, icon, scrollId }) => (
   <li className={styles.menuItem}>
     <Scrollchor to={scrollId} className={styles.link} animate={{ offset: -20 }}>
-      <img src={icon} alt={label} className={styles.menuItemIcon} />
+      <img
+        src={`https://dfusic.github.io/kaktus-cjenik/${icon}`}
+        alt={label}
+        className={styles.menuItemIcon}
+      />
       <span className={styles.menuItemLabel}>{label}</span>
     </Scrollchor>
   </li>
