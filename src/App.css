@@ -6,6 +6,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: black;
+  position: relative;
 }
 
 * {
@@ -35,7 +36,7 @@ body {
 
 .cjenik-title {
   margin-top: 0;
-  margin-bottom: 32px;
+  margin-bottom: 0px;
   font-size: 36px;
   font-size: bold;
   line-height: 43px;

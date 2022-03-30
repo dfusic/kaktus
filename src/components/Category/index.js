@@ -1,7 +1,7 @@
 import styles from "./category.module.css";
 
 export const Category = ({ category, id }) => (
-  <section id={id}>
+  <section id={id} className={styles.category}>
     <h3 className={styles.categoryTitleStyle}>{category.label}</h3>
     {category.items.map((categoryItem) => (
       <CategoryItem label={categoryItem.name} price={categoryItem.price} />

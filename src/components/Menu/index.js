@@ -15,14 +15,14 @@ export const Menu = ({ menuItems, icon }) => (
 );
 
 const MenuItem = ({ label, icon, scrollId }) => (
-  <li className={styles.menuItem}>
-    <Scrollchor to={scrollId} className={styles.link} animate={{ offset: -20 }}>
+  <Scrollchor to={scrollId} className={styles.link} animate={{ offset: -20 }}>
+    <li className={styles.menuItem}>
       <img
         src={`https://dfusic.github.io/kaktus-cjenik/${icon}`}
         alt={label}
         className={styles.menuItemIcon}
       />
       <span className={styles.menuItemLabel}>{label}</span>
-    </Scrollchor>
-  </li>
+    </li>
+  </Scrollchor>
 );
