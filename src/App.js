@@ -1,11 +1,9 @@
 import prices from "./prices.json";
 import { Menu } from "./components/Menu";
 import { Category } from "./components/Category";
-import { ScrollToTop } from "./components/ScrollToTop";
 
 const App = () => (
   <>
-    <ScrollToTop />
     <img
       src="https://dfusic.github.io/kaktus-cjenik/assets/images/sprite.svg"
       className="sprite"
