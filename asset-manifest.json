@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kaktus-cjenik/static/css/main.39ebc09d.css",
-    "main.js": "/kaktus-cjenik/static/js/main.bd955de3.js",
+    "main.css": "/kaktus-cjenik/static/css/main.679ebf88.css",
+    "main.js": "/kaktus-cjenik/static/js/main.94b6d57a.js",
     "static/js/787.6f8bf928.chunk.js": "/kaktus-cjenik/static/js/787.6f8bf928.chunk.js",
     "index.html": "/kaktus-cjenik/index.html",
-    "main.39ebc09d.css.map": "/kaktus-cjenik/static/css/main.39ebc09d.css.map",
-    "main.bd955de3.js.map": "/kaktus-cjenik/static/js/main.bd955de3.js.map",
+    "main.679ebf88.css.map": "/kaktus-cjenik/static/css/main.679ebf88.css.map",
+    "main.94b6d57a.js.map": "/kaktus-cjenik/static/js/main.94b6d57a.js.map",
     "787.6f8bf928.chunk.js.map": "/kaktus-cjenik/static/js/787.6f8bf928.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39ebc09d.css",
-    "static/js/main.bd955de3.js"
+    "static/css/main.679ebf88.css",
+    "static/js/main.94b6d57a.js"
   ]
 }
