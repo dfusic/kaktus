@@ -51,7 +51,7 @@
         "items": [
             {
                 "name": "Baby Capuccino",
-                "price": "5,00"
+                "price": "7,00"
             },
             {
                 "name": "Bijela kava",
@@ -63,31 +63,31 @@
             },
             {
                 "name": "Čaj",
-                "price": "8,00"
+                "price": "9,00"
             },
             {
                 "name": "Čaj s limunom",
-                "price": "9,00"
+                "price": "10,00"
             },
             {
                 "name": "Čaj sa limunom i medom",
-                "price": "11,00"
+                "price": "12,00"
             },
             {
                 "name": "Čaj s medom",
-                "price": "9,00"
+                "price": "11,00"
             },
             {
                 "name": "Kakao",
-                "price": "14,00"
+                "price": "15,00"
             },
             {
                 "name": "Kakao sa šlagom",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Kava espresso",
-                "price": "9,00"
+                "price": "10,00"
             },
             {
                 "name": "Kava sa šlagom",
@@ -95,15 +95,15 @@
             },
             {
                 "name": "Kava s mlijekom",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Kava s vrhnjem",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Ledena kava",
-                "price": "15,00"
+                "price": "17,00"
             },
             {
                 "name": "Med komad",
@@ -111,11 +111,11 @@
             },
             {
                 "name": "Nescaffe razno",
-                "price": "13,00"
+                "price": "15,00"
             },
             {
                 "name": "Nescaffe s vodom",
-                "price": "8,00"
+                "price": "9,00"
             },
             {
                 "name": "Šlag porcija",
@@ -123,7 +123,7 @@
             },
             {
                 "name": "Topla čokalada",
-                "price": "15,00"
+                "price": "17,00"
             }
         ]
     },
@@ -132,71 +132,71 @@
         "items": [
             {
                 "name": "Cedevita 0.3L",
-                "price": "13,00"
+                "price": "15,00"
             },
             {
                 "name": "Cedevita 0,5L",
-                "price": "15,00"
-            },
-            {
-                "name": "Gazirani sokovi",
-                "price": "16,00"
-            },
-            {
-                "name": "Hell",
                 "price": "17,00"
             },
             {
-                "name": "Jamnica botanica",
-                "price": "15,00"
+                "name": "Gazirani sokovi",
+                "price": "17,00"
             },
             {
-                "name": "Jamnica sensation",
-                "price": "15,00"
-            },
-            {
-                "name": "Jana vitamin",
-                "price": "15,00"
-            },
-            {
-                "name": "Juice jabuka",
-                "price": "40,00"
-            },
-            {
-                "name": "Ledeni čaj",
-                "price": "15,00"
-            },
-            {
-                "name": "Limunada 0.4L",
-                "price": "15,00"
-            },
-            {
-                "name": "Limunada 0.5L",
-                "price": "16,00"
-            },
-            {
-                "name": "Mineralna voda 0.10L",
-                "price": "2,00"
-            },
-            {
-                "name": "Mineralna voda 0.20L",
-                "price": "4,00"
-            },
-            {
-                "name": "Mineralna voda 0.30L",
-                "price": "6,00"
-            },
-            {
-                "name": "Mineralna voda 0.50L",
-                "price": "10,00"
-            },
-            {
-                "name": "Mineralna voda 1L",
+                "name": "Hell",
                 "price": "20,00"
             },
             {
+                "name": "Jamnica botanica",
+                "price": "17,00"
+            },
+            {
+                "name": "Jamnica sensation",
+                "price": "17,00"
+            },
+            {
+                "name": "Jana vitamin",
+                "price": "17,00"
+            },
+            {
+                "name": "Juice jabuka",
+                "price": "50,00"
+            },
+            {
+                "name": "Ledeni čaj",
+                "price": "17,00"
+            },
+            {
+                "name": "Limunada 0.4L",
+                "price": "17,00"
+            },
+            {
+                "name": "Limunada 0.5L",
+                "price": "18,00"
+            },
+            {
+                "name": "Mineralna voda 0.10L",
+                "price": "2,50"
+            },
+            {
+                "name": "Mineralna voda 0.20L",
+                "price": "5,00"
+            },
+            {
+                "name": "Mineralna voda 0.30L",
+                "price": "7,50"
+            },
+            {
+                "name": "Mineralna voda 0.50L",
+                "price": "12,50"
+            },
+            {
+                "name": "Mineralna voda 1L",
+                "price": "25,00"
+            },
+            {
                 "name": "Prirodni sok (Pago)",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Red bull",
@@ -204,19 +204,19 @@
             },
             {
                 "name": "Točena Coca Cola 0.1L",
-                "price": "5,00"
+                "price": "6,00"
             },
             {
                 "name": "Točena Coca Cola 0.2L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Točena Coca Cola 0.30L",
-                "price": "13,00"
+                "price": "15,00"
             },
             {
                 "name": "Točena Coca Cola 1L",
-                "price": "45,00"
+                "price": "50,00"
             }
         ]
     },
@@ -225,19 +225,15 @@
         "items": [
             {
                 "name": "Heineken 0.25L",
-                "price": "15,00"
+                "price": "16,00"
             },
             {
                 "name": "Hidra izotonic 0.5L",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Karlovačko 0.5L",
-                "price": "16,00"
-            },
-            {
-                "name": "Laško 0.5L",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Leffe svjetlo, tamno 0.33L",
@@ -245,7 +241,7 @@
             },
             {
                 "name": "Osječko crni radler 0.5L",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Ožujsko 0.33L",
@@ -253,31 +249,27 @@
             },
             {
                 "name": "Ožujsko 0.5L",
-                "price": "15,00"
+                "price": "16,00"
             },
             {
                 "name": "Ožujsko Cool 0.5L",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Ožujsko radler 0.5L",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Pan 0.5L",
-                "price": "16,00"
-            },
-            {
-                "name": "Pan Pilsner 0.5L",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Somersby 0.33L",
-                "price": "20,00"
+                "price": "23,00"
             },
             {
                 "name": "Staropramen 0.5L",
-                "price": "16,00"
+                "price": "17,00"
             },
             {
                 "name": "Stella Artois 0.33L",
@@ -285,15 +277,15 @@
             },
             {
                 "name": "Točeno pivo 0.3L",
-                "price": "13,00"
+                "price": "15,00"
             },
             {
                 "name": "Točeno pivo 0.5L",
-                "price": "16,00"
+                "price": "19,00"
             },
             {
                 "name": "Tomislav 0.5L",
-                "price": "16,00"
+                "price": "17,00"
             }
         ]
     },
@@ -302,7 +294,7 @@
         "items": [
             {
                 "name": "Bambus 0.20L",
-                "price": "13,00"
+                "price": "14,00"
             },
             {
                 "name": "Bambus 0.30L",
@@ -310,31 +302,31 @@
             },
             {
                 "name": "Bambus 0.50L",
-                "price": "26,00"
+                "price": "27,00"
             },
             {
                 "name": "Bevanda 0.2L",
-                "price": "5,00"
+                "price": "7,00"
             },
             {
                 "name": "Crno vino",
-                "price": "50,00"
+                "price": "65,00"
             },
             {
                 "name": "Domaće vino",
-                "price": "50,00"
+                "price": "60,00"
             },
             {
                 "name": "Gemišt 0.5L",
-                "price": "21,00"
+                "price": "23,00"
             },
             {
                 "name": "Gemišt domaći 0.2L",
-                "price": "9,00"
+                "price": "11,00"
             },
             {
                 "name": "Gemišt domaći 0.3L",
-                "price": "12,00"
+                "price": "14,00"
             },
             {
                 "name": "Kuhano vino bijelo",
@@ -346,15 +338,15 @@
             },
             {
                 "name": "Lovranski 0.2L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Lovranski 0.3L",
-                "price": "13,00"
+                "price": "14,00"
             },
             {
                 "name": "Škropec domaći",
-                "price": "6,00"
+                "price": "7,00"
             }
         ]
     },
@@ -367,19 +359,27 @@
             },
             {
                 "name": "Gin Sax",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Gin Tanqueray",
-                "price": "17,00"
+                "price": "18,00"
             },
             {
                 "name": "Gin - tonic Sax",
-                "price": "15,00"
+                "price": "17,00"
             },
             {
                 "name": "Gin - tonic Sax (pink, ginger)",
                 "price": "23,00"
+            },
+            {
+                "name": "Gin Gordon's",
+                "price": "15,00"
+            },
+            {
+                "name": "Gin - Gordon's coctail (Jalža gin)",
+                "price": "35,00"
             }
         ]
     },
@@ -414,15 +414,19 @@
         "items": [
             {
                 "name": "Amaro - cola 0.13L",
-                "price": "15,00"
+                "price": "17,00"
             },
             {
                 "name": "Blacky - cola 0.13L",
-                "price": "15,00"
+                "price": "16,00"
             },
             {
                 "name": "Hell - vodka 0.13L",
-                "price": "15,00"
+                "price": "17,00"
+            },
+            {
+                "name": "SLOVENEC VODKA",
+                "price": "35,00"
             },
             {
                 "name": "Jacky - cola 0.13L",
@@ -430,7 +434,7 @@
             },
             {
                 "name": "Jeger - cola 0.13L",
-                "price": "25,00"
+                "price": "26,00"
             },
             {
                 "name": "Jeger - hell 0.13L",
@@ -438,15 +442,15 @@
             },
             {
                 "name": "Juice - vodka 0.13L",
-                "price": "15,00"
+                "price": "17,00"
             },
             {
                 "name": "Kruškovac - cola 0.13L",
-                "price": "14,00"
+                "price": "15,00"
             },
             {
                 "name": "Pelin - cola 0.13L",
-                "price": "15,00"
+                "price": "17,00"
             },
             {
                 "name": "Pink lady - gin Sax 0.13L",
@@ -462,11 +466,11 @@
             },
             {
                 "name": "Rum - cola 0.13L",
-                "price": "15,00"
+                "price": "16,00"
             },
             {
                 "name": "Stock - cola 0.13L",
-                "price": "16,00"
+                "price": "20,00"
             }
         ]
     },
@@ -475,11 +479,11 @@
         "items": [
             {
                 "name": "Amaro 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Bacardi 0.03L",
-                "price": "20,00"
+                "price": "23,00"
             },
             {
                 "name": "Bell de joure 0.03L",
@@ -495,7 +499,7 @@
             },
             {
                 "name": "Cynar",
-                "price": "17,00"
+                "price": "20,00"
             },
             {
                 "name": "Dalmatino, Blacky 0.03L",
@@ -507,23 +511,23 @@
             },
             {
                 "name": "Jagermeister 0.03L",
-                "price": "18,,00"
+                "price": "20,00"
             },
             {
                 "name": "Južnjačka utjeha 0.03L",
-                "price": "18,00"
+                "price": "20,00"
             },
             {
                 "name": "Konjak prima brand 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Kruškovac 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Lavov 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Loza 0.03L",
@@ -535,15 +539,15 @@
             },
             {
                 "name": "Martini Fiero 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Medica 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Mentol 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Orehovac 0.03L",
@@ -551,35 +555,35 @@
             },
             {
                 "name": "Pelinkovac 0.03L",
-                "price": "10,00"
-            },
-            {
-                "name": "Pelinkovac Antique 0.03L",
-                "price": "14,00"
-            },
-            {
-                "name": "Rum Badel domaći 0.03L",
-                "price": "10,00"
-            },
-            {
-                "name": "Stock 0.03L",
-                "price": "14,00"
-            },
-            {
-                "name": "Tequilla 0.03L",
-                "price": "16,00"
-            },
-            {
-                "name": "Teranel 0.03L",
                 "price": "12,00"
             },
             {
+                "name": "Pelinkovac Antique 0.03L",
+                "price": "15,00"
+            },
+            {
+                "name": "Rum Badel domaći 0.03L",
+                "price": "12,00"
+            },
+            {
+                "name": "Stock 0.03L",
+                "price": "15,00"
+            },
+            {
+                "name": "Tequilla 0.03L",
+                "price": "18,00"
+            },
+            {
+                "name": "Teranel 0.03L",
+                "price": "13,00"
+            },
+            {
                 "name": "Travarica 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             },
             {
                 "name": "Viljamovka Roner, Harmund 0.03L ",
-                "price": "18,00"
+                "price": "20,00"
             },
             {
                 "name": "Višnjevac 0.03L",
@@ -587,7 +591,7 @@
             },
             {
                 "name": "Vodka trojka 0.03L",
-                "price": "10,00"
+                "price": "12,00"
             }
         ]
     }
