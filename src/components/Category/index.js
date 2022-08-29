@@ -12,7 +12,7 @@ export const Category = ({ category, id }) => (
 const CategoryItem = ({ label, price }) => {
   const EURO_BASE = 7.5345;
   const priceInteger = Number(price.replace(",", "."));
-  const euroPrice = (priceInteger / EURO_BASE).toFixed(4);
+  const euroPrice = priceInteger / EURO_BASE;
   console.log(euroPrice);
 
   return (
