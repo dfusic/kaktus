@@ -43,3 +43,16 @@ body {
   display: inline-block;
   border-bottom: 2px solid #f89938;
 }
+
+@media screen and (max-width: 350px){
+  .single-category-item{
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: 16px;
+  }
+  .single-price{
+    flex-direction: row;
+    margin-top: 8px;
+  }
+}
