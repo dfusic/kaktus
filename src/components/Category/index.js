@@ -16,9 +16,9 @@ const CategoryItem = ({ label, price }) => {
   console.log(euroPrice);
 
   return (
-    <li key={label} className={styles.categoryItemStyle}>
+    <li key={label} className={`${styles.categoryItemStyle} single-category-item`}>
       <p style={{ margin: 0, gridColumnStart: 0, gridColumnEnd: 2 }}>{label}</p>
-      <div className={styles.categoryPrices}>
+      <div className={`${styles.categoryPrices} single-price`}>
         <p style={{ margin: 0 }}>{price} HRK</p>
         <p style={{ margin: 0, marginLeft: 16 }}>{euroPrice} EUR</p>
       </div>
