@@ -44,7 +44,7 @@ body {
   border-bottom: 2px solid #f89938;
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 400px){
   .single-category-item{
     flex-direction: column;
     justify-content: flex-start;
