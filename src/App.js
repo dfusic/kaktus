@@ -1,6 +1,7 @@
 import prices from "./prices.json";
 import { Menu } from "./components/Menu";
 import { Category } from "./components/Category";
+import { Footer } from "./components/Footer";
 
 const App = () => (
   <>
@@ -28,6 +29,7 @@ const App = () => (
       <Category category={prices.kokteli} id="kokteli" />
       <Category category={prices.mixPica} id="mix-pica" />
       <Category category={prices.zestokaPica} id="zestoka-pica" />
+      <Footer />
     </div>
     <img
       src="/assets/images/sprite-bottom.svg"

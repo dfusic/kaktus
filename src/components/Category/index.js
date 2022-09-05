@@ -10,7 +10,7 @@ export const Category = ({ category, id }) => (
 );
 
 const CategoryItem = ({ label, price }) => {
-  const EURO_BASE = 7.5345;
+  const EURO_BASE = 7.53450;
   const priceInteger = Number(price.replace(",", "."));
   const euroPrice = (priceInteger / EURO_BASE).toFixed(2);
 
@@ -19,7 +19,7 @@ const CategoryItem = ({ label, price }) => {
       <p style={{ margin: 0, gridColumnStart: 0, gridColumnEnd: 2 }}>{label}</p>
       <div className={`${styles.categoryPrices} single-price`}>
         <p style={{ margin: 0 }}>{price} HRK</p>
-        <p style={{ margin: 0, marginLeft: 16 }}>{euroPrice} EUR</p>
+        <p style={{ margin: 0, marginLeft: 16 }}>{String(euroPrice).replace('.',',')} EUR</p>
       </div>
     </li>
   );
