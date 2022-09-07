@@ -115,7 +115,7 @@
             },
             {
                 "name": "Nescaffe s vodom",
-                "price": "9,00"
+                "price": "8,00"
             },
             {
                 "name": "Šlag porcija",
@@ -265,7 +265,7 @@
             },
             {
                 "name": "Somersby 0.33L",
-                "price": "23,00"
+                "price": "22,00"
             },
             {
                 "name": "Staropramen 0.5L",
@@ -277,7 +277,7 @@
             },
             {
                 "name": "Točeno pivo 0.3L",
-                "price": "15,00"
+                "price": "14,00"
             },
             {
                 "name": "Točeno pivo 0.5L",
@@ -302,7 +302,7 @@
             },
             {
                 "name": "Bambus 0.50L",
-                "price": "27,00"
+                "price": "28,00"
             },
             {
                 "name": "Bevanda 0.2L",
@@ -355,7 +355,7 @@
         "items": [
             {
                 "name": "Gin Hendricks",
-                "price": "20,00"
+                "price": "25,00"
             },
             {
                 "name": "Gin Sax",
@@ -371,7 +371,7 @@
             },
             {
                 "name": "Gin - tonic Sax (pink, ginger)",
-                "price": "23,00"
+                "price": "28,00"
             },
             {
                 "name": "Gin Gordon's",
@@ -392,7 +392,7 @@
             },
             {
                 "name": "Jameson",
-                "price": "18,00"
+                "price": "20,00"
             }
         ]
     },
@@ -511,7 +511,7 @@
             },
             {
                 "name": "Jagermeister 0.03L",
-                "price": "28,00"
+                "price": "18,00"
             },
             {
                 "name": "Južnjačka utjeha 0.03L",
