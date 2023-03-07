@@ -12,14 +12,14 @@ export const Category = ({ category, id }) => (
 const CategoryItem = ({ label, price }) => {
   const EURO_BASE = 7.53450;
   const priceInteger = Number(price.replace(",", "."));
-  const euroPrice = (priceInteger / EURO_BASE).toFixed(2);
+  const hrkPrice = (priceInteger * EURO_BASE).toFixed(2);
 
   return (
     <li key={label} className={`${styles.categoryItemStyle} single-category-item`}>
       <p style={{ margin: 0, gridColumnStart: 0, gridColumnEnd: 2 }}>{label}</p>
       <div className={`${styles.categoryPrices} single-price`}>
-        <p style={{ margin: 0 }}>{price} HRK</p>
-        <p style={{ margin: 0, marginLeft: 16 }}>{String(euroPrice).replace('.',',')} EUR</p>
+        <p style={{ margin: 0 }}>{price} EUR</p>
+        <p style={{ margin: 0, marginLeft: 16 }}>{String(hrkPrice).replace('.',',')} HRK</p>
       </div>
     </li>
   );
